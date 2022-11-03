@@ -30,7 +30,7 @@ Can include
 - Required SDK and other resources.
 
 The first prerequisite is always:
-- A ZEGOCLOUD developer account--[register](https://console.zegocloud.com/account/signup)
+- A ZEGOCLOUD developer account--[Sign up](https://console.zegocloud.com/account/signup)
 
 ## XXX SDK integration
 
